@@ -43,6 +43,9 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: wheat;
+  font-size: x-large;
+  font-weight: bolder;
 }
 
 img {
@@ -79,6 +82,7 @@ a:hover {
   }
   h2 {
     font-size: 1em;
+    color: yellow;
   }
   .wrapper {
     width: 95%;
